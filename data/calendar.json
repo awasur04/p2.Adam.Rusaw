@@ -1,0 +1,17 @@
+[
+	{
+		"month": "December",
+		"day": "1",
+		"activities": [
+			"CS3363 Project 2 Due",
+			"Interview with Jeff Bezos"
+		]
+	},
+	{
+		"month": "December",
+		"day": "2",
+		"activities": [
+			"Rent Due"
+		]
+	}
+]
